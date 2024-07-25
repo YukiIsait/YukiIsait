@@ -15,4 +15,4 @@
 
 ---
 
-![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=sharp&logoColor=white) 
+![C](https://img.shields.io/badge/C-5C5C5C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=sharp&logoColor=white) 
