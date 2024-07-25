@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" height=“300” src="https://github.com/YukiIsait/YukiIsait/raw/main/Image.jpg"/>
+<img align="right" height="300" src="https://github.com/YukiIsait/YukiIsait/raw/main/Image.jpg"/>
 
 你好呀~ 这里是 YukiIsait, 你可以叫我雪狐。爱好有很多，听歌，看小说，不过最喜欢的当然还是搓电路和写代码~
 
