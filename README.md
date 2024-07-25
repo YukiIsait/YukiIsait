@@ -2,7 +2,8 @@
 
 <img align="right" height="255" src="https://github.com/YukiIsait/YukiIsait/raw/main/Image.jpg"/>
 
-你好呀~ 这里是 YukiIsait, 你可以叫我雪狐。爱好有很多，听歌，看小说，不过最喜欢的当然还是搓电路和写代码~
+你好呀~ 这里是 YukiIsait，你可以叫我雪狐。  
+爱好有很多，听歌，看小说，不过最喜欢的当然还是搓电路和写代码啦~
 
 - 🌱 喜欢的语言: C、C++、C#（~~为什么呢~~）
 - 🔭 正在学习的: Qt、Stm32
