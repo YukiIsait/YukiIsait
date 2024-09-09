@@ -9,6 +9,4 @@
 - 🤔 要是有人能教教我那就更好了
 - 💕 如果更多人喜欢我的小项目一定很令人开心
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiIsait&show_icons=true&theme=swift)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiIsait&layout=compact&theme=swift)
