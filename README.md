@@ -13,11 +13,13 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YukiIsait&theme=transparent&show_icons=true&hide_title=true)
+[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=YukiIsait&show_icons=true&hide_title=true&theme=dracula#gh-dark-mode-only)](https://github.com/YukiIsait#gh-dark-mode-only)
+[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=YukiIsait&show_icons=true&hide_title=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/YukiIsait#gh-light-mode-only)
 
 ### Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiIsait&theme=transparent&layout=compact&langs_count=8&hide_title=true)
+[![Most Used Languages Dark](https://github-readme-stats.vercel.app/api/top-langs?username=YukiIsait&layout=compact&langs_count=8&hide_title=true&theme=dracula#gh-dark-mode-only)](https://github.com/YukiIsait#gh-dark-mode-only)
+[![Most Used Languages Light](https://github-readme-stats.vercel.app/api/top-langs?username=YukiIsait&layout=compact&langs_count=8&hide_title=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/YukiIsait#gh-light-mode-only)
 
 ### End
 
