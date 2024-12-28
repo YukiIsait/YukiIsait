@@ -8,3 +8,7 @@
 - 💬 或许我们可以聊些有趣~~但没啥用~~的奇妙想法
 - 🤔 要是有人能教教我那就更好了
 - 💕 如果更多人喜欢我的小项目一定很令人开心
+
+![YukiIsait's Stats](https://github-readme-stats.vercel.app/api?username=YukiIsait&theme=transparent&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiIsait&theme=transparent&layout=compact&langs_count=8)
