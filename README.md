@@ -18,3 +18,8 @@
 ### Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiIsait&theme=transparent&layout=compact&langs_count=8&hide_title=true)
+
+### End
+
+> [!TIP]
+> The fluffy fox sometimes paces back and forth too, you know, just when it feels all gloomy and "meh" about life.
