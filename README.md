@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-你好呀，这里是 YukiIsait，你可以叫我雪狐~
+你好呀，这里是 YukiIsait，你可以叫我雪狐~<!-- 或者大只狐狸w -->
 
 - 🌱 [雪狐的小窝](https://youko.netlify.app/)（发些有趣的东西）
 - 🔭 喜欢的语言：C、C++、C#（~~为什么呢~~）
