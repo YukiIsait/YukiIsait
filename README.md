@@ -18,8 +18,8 @@
 
 ### Most Used Languages
 
-[![Most Used Languages Dark](https://github-readme-stats.vercel.app/api/top-langs?username=YukiIsait&layout=compact&langs_count=8&hide_title=true&theme=dracula#gh-dark-mode-only)](https://github.com/YukiIsait#gh-dark-mode-only)
-[![Most Used Languages Light](https://github-readme-stats.vercel.app/api/top-langs?username=YukiIsait&layout=compact&langs_count=8&hide_title=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/YukiIsait#gh-light-mode-only)
+[![Most Used Languages Dark](https://github-readme-stats.vercel.app/api/top-langs?username=YukiIsait&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_title=true&theme=dracula#gh-dark-mode-only)](https://github.com/YukiIsait#gh-dark-mode-only)
+[![Most Used Languages Light](https://github-readme-stats.vercel.app/api/top-langs?username=YukiIsait&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_title=true&theme=shadow_blue#gh-light-mode-only)](https://github.com/YukiIsait#gh-light-mode-only)
 
 ### End
 
